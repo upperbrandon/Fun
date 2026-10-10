@@ -11,3 +11,5 @@ a <-c("A","A","A","A","B","B","C")
 ggplot() + geom_bar(mapping = aes(a), data = data.frame(a), fill = "magenta4")
 
 Ω = 20 
+
+print("hello world")
